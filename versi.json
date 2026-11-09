@@ -1,0 +1,12 @@
+{
+  "_nota": "Fail kawalan versi Ulangkaji UPKK. Kemas kini 'terkini' dan 'minimum' setiap kali versi baharu diterbitkan. Naikkan 'minimum' hanya apabila versi lama tidak lagi selamat digunakan.",
+  "nota": "Versi 2.1.0: tip sukarela RM 3 / RM 5 / RM 10 dan pemeriksaan kemas kini automatik.",
+  "android": {
+    "terkini": "2.0.0",
+    "minimum": "2.0.0"
+  },
+  "ios": {
+    "terkini": "2.0.0",
+    "minimum": "2.0.0"
+  }
+}
